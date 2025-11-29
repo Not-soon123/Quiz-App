@@ -49,3 +49,13 @@
     margin: auto;
     font-size: 20px;
 }
+.continer .correct{
+    background: #dffff2;
+    border-color: #00d397;
+    /*border:none;*/
+}
+.continer .wrong{
+    background: #ffebeb;
+    border-color: #ff4a4a;
+    /*border:none;8*/
+}
